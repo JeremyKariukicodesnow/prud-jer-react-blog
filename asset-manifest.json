@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prud-jer-react-blog/static/css/main.16512235.css",
+    "main.js": "/prud-jer-react-blog/static/js/main.29d49356.js",
+    "index.html": "/prud-jer-react-blog/index.html",
+    "main.16512235.css.map": "/prud-jer-react-blog/static/css/main.16512235.css.map",
+    "main.29d49356.js.map": "/prud-jer-react-blog/static/js/main.29d49356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16512235.css",
+    "static/js/main.29d49356.js"
+  ]
+}
